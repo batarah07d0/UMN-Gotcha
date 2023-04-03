@@ -25,6 +25,9 @@ UMNGotcha merupakan permainan simulasi kehidupan hewan peliharaan dengan cara ki
 - https://github.com/dzaky2636/ProjectUTSPTI-UMNGotcha
 - https://github.com/dzaky2636/ProjectUTSPTI-UMNGotcha.git (clone)
 
+### Link Landing Pages
+- https://tinyurl.com/Project-UTS-PTI-LEC-Group2
+
 ### About Us
 1. Axel Reginald Wiranto - 00000078456 (Frontend)
 2. Batara Hotdo Horas Simbolon - 00000078626 (Frontend)
