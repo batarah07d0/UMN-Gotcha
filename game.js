@@ -65,16 +65,16 @@ setInterval(function () {
       minutes = minutes - 60;
       hour++;
       if (hour == 19) {
-        $("#backgroundImage").attr("style", "background-image: url('assets/bgforestnight.jpg'); height: 53em");
+        $("#backgroundImage").attr("style", "background-image: url('assets/bgforestnight.jpg'); height: 113vh");
         notify("Selamat malam " + hewan.nama + "!");
       } else if (hour == 15) {
-        $("#backgroundImage").attr("style", "background-image: url('assets/bgforestevening.jpg'); height: 53em");
+        $("#backgroundImage").attr("style", "background-image: url('assets/bgforestevening.jpg'); height: 113vh");
         notify("Selamat sore " + hewan.nama + "!");
       } else if (hour == 12) {
-        $("#backgroundImage").attr("style", "background-image: url('assets/bgforestday.jpg'); height: 53em");
+        $("#backgroundImage").attr("style", "background-image: url('assets/bgforestday.jpg'); height: 113vh");
         notify("Selamat siang " + hewan.nama + "!");
       } else if (hour == 5) {
-        $("#backgroundImage").attr("style", "background-image: url('assets/bgforestevening.jpg'); height: 53em");
+        $("#backgroundImage").attr("style", "background-image: url('assets/bgforestevening.jpg'); height: 113vh");
         notify("Selamat pagi " + hewan.nama + "!");
       }
     }
