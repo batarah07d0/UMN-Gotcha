@@ -1,4 +1,4 @@
-# Project UTS PTI-UMN Gotcha
+# Project UTS PTI - UMN Gotcha
 
 ### UMNGotcha
 UMNGotcha merupakan permainan simulasi kehidupan hewan peliharaan dengan cara kita mengendalikan kehidupan hewan perliharaan kita seperti makan, makan obat, tidur, dan bermain yang diawali dengan memilih avatar hewan dan memasukkan nama hewan peliharaan.
